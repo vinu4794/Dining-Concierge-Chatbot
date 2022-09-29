@@ -4,7 +4,7 @@ This repository is forked from my team member's github repository, since we work
 
 ## Project Goal
 Implement a serverless, microservice-driven web
-application. Specifically, you will build a Dining Concierge chatbot that sends you
+application: Specifically, to build a Dining Concierge chatbot that sends you
 restaurant suggestions given a set of preferences that you provide the chatbot with
 through conversation.
 
