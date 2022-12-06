@@ -8,3 +8,5 @@ application: Specifically, to build a Dining Concierge chatbot that sends you
 restaurant suggestions given a set of preferences that you provide the chatbot with
 through conversation.
 
+## Architecture Flow:
+![Architecture Flow](https://github.com/vinu4794/Dining-Concierge-Chatbot/blob/main/architecture_Dining_ChatBot.png)
